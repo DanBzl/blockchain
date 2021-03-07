@@ -1,0 +1,31 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "transaction\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C chain of transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dev/test.mjs",
+    "node_1": "nodemon --watch dev -e mjs dev/networkNode.mjs 3001 http://localhost:3001",
+    "node_2": "nodemon --watch dev -e mjs dev/networkNode.mjs 3002 http://localhost:3002",
+    "node_3": "nodemon --watch dev -e mjs dev/networkNode.mjs 3003 http://localhost:3003",
+    "node_4": "nodemon --watch dev -e mjs dev/networkNode.mjs 3004 http://localhost:3004",
+    "node_5": "nodemon --watch dev -e mjs dev/networkNode.mjs 3005 http://localhost:3005"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blockchainGIT"
+  },
+  "keywords": [
+    "blockchain",
+    "block",
+    "chain"
+  ],
+  "author": "Dan Mpindi Bazola",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.2"
+  }
+}

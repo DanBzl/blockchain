@@ -22,11 +22,19 @@
 4. http://localhost:3004/ or http://localhost:3004/block-explorer
 5. http://localhost:3005/ or http://localhost:3005/block-explorer
 
-
+### Project Cookoin
 ![Project](https://github.com/DanBzl/blockchain/blob/main/ck0.jpg "Project")
+
+### Blockchain
 ![Blockchain](https://github.com/DanBzl/blockchain/blob/main/ck1.jpg "Blockchain")
+
+### Block
 ![Block](https://github.com/DanBzl/blockchain/blob/main/ck2.jpg "Block")
+
+### Transaction
 ![Transaction](https://github.com/DanBzl/blockchain/blob/main/ck3.jpg "Transaction")
+
+### Mining
 ![Mining](https://github.com/DanBzl/blockchain/blob/main/ck4.jpg "Mining")
 
 
